@@ -138,4 +138,5 @@ Visit [http://localhost:8000/docs](http://localhost:8000/docs) to test all endpo
 
 ## Author
 
-Muhammad Sohaib — learning backend development with FastAPI
+Muhammad Sohaib 
+learning backend development with FastAPI
